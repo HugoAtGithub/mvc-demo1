@@ -1,0 +1,6 @@
+import "./assets/reset.css"
+import "./assets/global.css"
+import "./assets/app1.js"
+import "./assets/app2.js"
+import "./assets/app3.js"
+import "./assets/app4.js"
